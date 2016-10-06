@@ -13,10 +13,10 @@
 ## Program General Information:
 
  * Using the command line interface, the user is required to use one of the following search instructions: 
- 1. my-twitter
- 2. spotify-this-song "song name..."
- 3. movie-this "movie name..."
- 4. do-what-it-says
+  1. my-twitter
+  2. spotify-this-song "song name..."
+  3. movie-this "movie name..."
+  4. do-what-it-says
 
  * Based on the user instruction, the application will retrieve data from the defined source API
 
