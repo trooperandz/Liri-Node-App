@@ -41,3 +41,44 @@ Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6
 Album: The Hits--Chapter One
 ********************
 
+User requested the my-tweets instruction:
+********************
+My Tweets: 
+
+Tweet #0Created: Wed Oct 05 20:03:53 +0000 2016Message: 'I'll tweet you, it you tweet me right....'
+
+Tweet #1Created: Wed Oct 05 20:03:29 +0000 2016Message: 'To my unknown valentine:  Tweet Me Not...'
+
+Tweet #2Created: Wed Oct 05 20:02:49 +0000 2016Message: 'If I were a tweet, which kind of bird would I have?  Or maybe the better question is, if I were a bird, which kind of tweet should I have?'
+
+Tweet #3Created: Wed Oct 05 20:02:00 +0000 2016Message: 'I think that maybe tweeting is overrated, like in a narcissistic kind of way.  If you read this, please let me know so that I can feel happy'
+
+Tweet #4Created: Wed Oct 05 20:01:19 +0000 2016Message: 'Why should I tweet now, when It's been three years since my last tweet?'
+
+Tweet #5Created: Tue Dec 31 04:25:28 +0000 2013Message: 'Say NO to @SeaWorld, where happiness tanks! http://t.co/x2kYFa7aJC #seaworldofhurt via @peta'
+********************
+
+User requested the spotify-this-song instruction:
+********************
+User searched for: Buddy Holly
+Results: 
+Artist(s): Weezer
+Song Title: Buddy Holly
+Preview Link: https://p.scdn.co/mp3-preview/2c4fa483a324a49c0ae6cdddfe88776b48a3c034
+Album: Weezer (Deluxe Edition)
+********************
+
+User requested the movie-this instruction:
+********************
+User searched for: The Terminator
+Results: 
+Title: The Terminator
+Year: 1984
+Rating: 8.1
+Produced In: UK, USA
+Language: English, Spanish
+Plot: A human-looking indestructible cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+Rating: 8.1
+********************
+
