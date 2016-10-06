@@ -26,7 +26,7 @@ var userQuery   = process.argv[3];
 // Establish queryUrl string
 var queryUrl = "";
 
-// Establish log string
+// Establish user request info string
 var userRequestMsg = "User requested the " + requestType + " instruction:\n";
 
 runSwitch();

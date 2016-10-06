@@ -1,3 +1,1 @@
-keys.js
-node_modules
-.DS_Store
+sys/config/db-cred.inc.php
