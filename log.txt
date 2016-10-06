@@ -1,0 +1,43 @@
+/* User Log for LIRI Bot App */
+
+
+User requested the spotify-this-song instruction:
+********************
+User searched for: I Want It That Way
+Results: 
+Artist(s): Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album: The Hits--Chapter One
+********************
+
+User requested the spotify-this-song instruction:
+********************
+User searched for: I Want It That Way
+Results: 
+Artist(s): Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album: The Hits--Chapter One
+********************
+
+User requested the spotify-this-song instruction:
+********************
+User searched for: I Want It That Way
+Results: 
+Artist(s): Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album: The Hits--Chapter One
+********************
+
+User requested the do-what-it-says instruction:
+********************
+User searched for: "I Want It That Way"
+Results: 
+Artist(s): Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+Album: The Hits--Chapter One
+********************
+
